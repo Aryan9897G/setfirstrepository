@@ -1,0 +1,29 @@
+git init for initialization git repository
+git status it use for check the status
+git add . it use for tracking the file it means convert working file into staged file 
+git config --global username "Name" use for give the name  to git
+git config --global userid "emailid" use for give the name to git 
+git commit -m "comment" in comment write how many changes you have done in this repository 
+git remote add origin "link" it use for link with website like github
+git log it use for check how many changes have done by persons
+git push origin branch it use for pushing  repository to github 
+git pull origin branch it use for pulling repository from github
+git diff filename it use for check which changes you have done in your working file
+git diff --staged file it use for check which changes you have done working file in the staged stage
+git reset means change staged file in to working file 
+git checkout means back to last commited file
+git add -A mean staged whole repository 
+git add . mean staged only new and modified ,not deleted
+git add -u mean staged deleted and modified ,not new
+git clone link it use for make a dummy of that project in the form of folder
+git clone link . it use for make a dummy of that project in the form of separate files 
+ls -la it use for check how many files present in this git repository 
+touch use for new file mainly use for .gitignore file
+notepad .gitignore it use for open file in notepad 
+git branch it use for check the branch 
+git branch branchname it use for making a new branch
+git checkout branchname it use for jump to other branch
+git push -u origin branchname it use for pust your file in other branch which you want
+git merge branchname it use for merge branches
+git branch -d branchname it use for delete the branch locally
+git push origin --delete branchname it use for delete the branch on github
